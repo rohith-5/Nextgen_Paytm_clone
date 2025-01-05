@@ -10,18 +10,13 @@
 
 ## Run Locally :-
 ```bash
-git clone https://github.com/haldaranup/paytm-mall.git
+git clone https://github.com/rohith-5/Nextgen_Paytm_clone.git
 ```
 
 
 
 ## Deployment Link:-
 https://paytm-mall-masai.netlify.app
-
-## Contributers :- 
-- #### [Sagar](https://www.linkedin.com/in/sagar-pradhan16/)
-- #### [Anup Haldar](https://www.linkedin.com/in/haldaranup/)
-- #### [Rahul Yadav](https://www.linkedin.com/in/mrah100/)
 
 
 
@@ -33,7 +28,6 @@ https://paytm-mall-masai.netlify.app
 - #### NodeJs
 - #### Express
 - #### MongoDB
-- #### Mongoose
 - #### GIT
 
 
@@ -62,10 +56,3 @@ https://paytm-mall-masai.netlify.app
 - After payment has completed successfully then he will be redirected to home page.
 
 
-
-## Screenshots :- 
-![Paytm-mall](/src/assets/homepage.png)
-![items](/src/assets/items.png)
-
-## For more details, here is our blog
-[Blog](https://haldaranup.medium.com/working-with-back-end-on-paytm-mall-website-1df443c3e5c7)
